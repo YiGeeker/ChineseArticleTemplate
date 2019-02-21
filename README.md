@@ -1,0 +1,2 @@
+# 中文文档LaTeX模板
+一个按照一般Word要求设置的中文文档的LaTeX模板。由于字体的原因，最好选择在Windows平台上用XeTeX或XeLaTeX编译。
